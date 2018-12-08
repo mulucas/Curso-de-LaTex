@@ -1,0 +1,4 @@
+\babel@toc {brazil}{}
+\contentsline {section}{\numberline {1}Modo matem\IeC {\'a}tico}{1}
+\contentsline {section}{\numberline {2}Modo matem\IeC {\'a}tico2}{1}
+\contentsline {section}{\numberline {3}Modo matem\IeC {\'a}tico3}{1}

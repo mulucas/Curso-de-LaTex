@@ -1,0 +1,104 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.22)  24 OCT 2018 10:00
+entering extended mode
+**./document_antes.tex
+(document_antes.tex
+LaTeX2e <2018-04-01> patch level 5
+
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\artic
+le.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size1
+0.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\input
+enc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\ba
+bel.sty"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\sw
+itch.def"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblo
+pts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-port
+uges\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\ba
+bel.def"
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\tx
+tbabel.def")
+\bbl@dirlevel=\count89
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Users\Lucas Queiroz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\s
+etspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (document_antes.aux)
+\openout1 = `document_antes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ [1
+
+{C:/Users/Lucas Queiroz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+ (document_antes.aux) ) 
+Here is how much of TeX's memory you used:
+ 803 strings out of 492973
+ 11426 string characters out of 3123146
+ 80614 words of memory out of 3000000
+ 4732 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,4n,23p,748b,109s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Lucas Queiroz/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on document_antes.pdf (2 pages, 22520 bytes).
+PDF statistics:
+ 13 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

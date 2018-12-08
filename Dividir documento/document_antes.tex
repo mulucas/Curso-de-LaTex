@@ -1,0 +1,36 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc} % Este pacote serve para acentuação
+\usepackage[brazil]{babel} % Este pacote coloca os nomes em pt-br
+\usepackage{indentfirst} % Este pacote aplica indentação
+\usepackage{float} % Posição das figuras
+\usepackage{graphicx} % Figuras
+\usepackage[a4paper, left=1cm, right=2cm, top=2cm, bottom=3cm]{geometry} % Este pacote altera a margem do documento
+
+
+\begin{document}
+	\title{\textbf{{\Huge Dividir Documento}}} % Título
+	\author{Alexandre Nunes} % Autor
+	\date{} % Data
+	\maketitle % Criar o título, autor e data
+	\thispagestyle{empty} % Oculta a numeração da página
+	\newpage
+	
+	\setcounter{page}{1} % Começa a contar as páginas novamente
+	\pagenumbering{Roman} % Altera para algarismo romano
+	\tableofcontents % Cria o sumário
+	\newpage
+
+	\setcounter{page}{1} % Começa a contar as páginas novamente
+	\pagenumbering{arabic} % Altera para algarismo arábico
+	
+	\section{Introdução}
+	
+	\section{Desenvolvimento}
+	
+	\section{Conclusão}
+	
+
+	
+	
+\end{document}
